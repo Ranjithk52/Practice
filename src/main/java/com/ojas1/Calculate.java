@@ -34,5 +34,8 @@ public class Calculate extends HttpServlet {
 		String result=req.getParameter("Add");
 		out.print(result);
 	}
+public void sum(){
+System.out.println("hello");
+}
 
 }
