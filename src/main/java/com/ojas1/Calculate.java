@@ -36,6 +36,7 @@ public class Calculate extends HttpServlet {
 	}
 public void sum(){
 System.out.println("hello");
+	System.out.println("After changes");
 }
 
 }
